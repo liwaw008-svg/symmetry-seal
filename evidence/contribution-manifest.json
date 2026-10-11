@@ -1,0 +1,12 @@
+{
+  "account":"liwaw008-svg",
+  "repository":"https://github.com/liwaw008-svg/symmetry-seal",
+  "reviewedSource":"https://github.com/liwaw008-svg/symmetry-seal/blob/6b840e22cc790024e6d788f25cffb8d3ff361d31/contracts/contract.py",
+  "sourceCommit":"6b840e22cc790024e6d788f25cffb8d3ff361d31",
+  "sourceSha256":"79ae11100b73f01f76da9f9283a1f76c74f9eb0847dc0fc1444ffb87499bd039",
+  "contractAddress":"0x84925293887DA9e1e895dA072D62f72cf842F658",
+  "explorer":"https://explorer-studio.genlayer.com/address/0x84925293887DA9e1e895dA072D62f72cf842F658",
+  "deploymentTransaction":"0xe6ee8f23b65d9fd0487eb9112868d0ab55f56cbf4d0766e598d2795c80e1fe7f",
+  "liveRecord":"SEAL-1791758206",
+  "liveResult":"CLOSED / IDENTITY"
+}

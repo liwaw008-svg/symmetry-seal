@@ -1,0 +1,31 @@
+{
+  "sealId": "SEAL-1791758206",
+  "transactions": {
+    "open": "0x2222ed4b3fdfad1a164fdd6e9b73374388cdce859b6885c3b2c414f42933b08b",
+    "resolve": "0x7df93d88c63772f2e65d806ef3fb103a0b78dfb3f65724a740c9ea3bb6dbb8f2"
+  },
+  "state": {
+    "artifact_urls": [
+      "https://raw.githubusercontent.com/liwaw008-svg/symmetry-seal/6b840e22cc790024e6d788f25cffb8d3ff361d31/evidence/move-a.md",
+      "https://raw.githubusercontent.com/liwaw008-svg/symmetry-seal/6b840e22cc790024e6d788f25cffb8d3ff361d31/evidence/move-b.md",
+      "https://raw.githubusercontent.com/liwaw008-svg/symmetry-seal/6b840e22cc790024e6d788f25cffb8d3ff361d31/evidence/move-c.md"
+    ],
+    "composed_code": 0,
+    "composed_name": "IDENTITY",
+    "digests": [
+      "72660376aceaa4fbfa53962bbac270c2c6211da29bcd052fbc7c3567bd45db88",
+      "2b67273f25f1023bcc780a2be5887e3528ab76a1a370853a5168e82d6e372604",
+      "d539264bc73a6c4e34091b51467ffef75600ce96e17d8ba2611286b6e7a96bab"
+    ],
+    "id": "SEAL-1791758206",
+    "owner": "0x05C0cc3F433F6e296f18117f558FdB9043434793",
+    "state": "CLOSED",
+    "title": "Four-corner return loop",
+    "transform_codes": [
+      1,
+      2,
+      1
+    ]
+  },
+  "disclosure": "The public transform artifacts are operator-authored technical fixtures."
+}
